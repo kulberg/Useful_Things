@@ -1,0 +1,3 @@
+['TARGET', '001', None]
+[None, '000', None]
+['TARGET', ',\\n', '<null>\n<multi-line>']

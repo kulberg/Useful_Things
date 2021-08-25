@@ -1,0 +1,8 @@
+['EVEN', '0', 'EVEN']
+['EVEN', '1', 'ODD']
+['ODD', '1', 'ODD']
+['ODD', '1', 'ODD']
+['ODD', '0', 'EVEN']
+['EVEN', '0', 'EVEN']
+['EVEN', '1', 'ODD']
+['ODD', '0', 'EVEN']
