@@ -1,5 +1,17 @@
-import FSM_Interface as FSMI
+"""
+Finite State Machine Interface
 
+Purpose: Drag-and-drop interface for building and running FSMs. External data stream possible
+Usage:
+
+Author: Kyle Ulberg
+Initial Release: August 25, 2021
+Changelog:
+
+Known Issues:
+Closing the app with the corner red X (instead of .quit()) leaves a daemon thread
+
+"""
 """
 ### IMPORTANT ###
 This is a template for multithreading and controlling the app from custom code
@@ -8,6 +20,7 @@ Example: Scripted playback from saved files and records
 If you don't want to do that just run the main Interface file
 If you do want to do that, still better to set up your saves using the GUI normally
 """
+import FSM_Interface as FSMI
 
 # Creates the thread object and opens app
 # external=True launches in multi-thread mode

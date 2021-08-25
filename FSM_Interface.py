@@ -5,8 +5,10 @@ Purpose: Drag-and-drop interface for building and running FSMs. External data st
 Usage:
 
 Author: Kyle Ulberg
-Initial Release:
+Initial Release: August 25, 2021
 Changelog:
+
+Known Issues:
 
 """
 from tkinter import *
