@@ -1022,13 +1022,14 @@ class Thread:
                 label[2].destroy()
                 label[3].destroy()
         self.labels.clear()
+
         try:
             try:
-                with open(file, 'r', encoding='utf-8') as file:
-                    self.load2(json.load(file))
+                with open(self.kwarg['directory'] + file, 'r', encoding='utf-8') as f:
+                    self.load2(json.load(f))
             except:
-                with open(r'{}'.format(file)[1:-1], 'r', encoding='utf-8') as file:
-                    self.load2(json.load(file))
+                with open(self.kwarg['directory'] + r'{}'.format(file)[1:-1], 'r', encoding='utf-8') as f:
+                    self.load2(json.load(f))
         except:
             return -1
 

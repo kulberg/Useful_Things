@@ -13,7 +13,7 @@ If you do want to do that, still better to set up your saves using the GUI norma
 # external=True launches in multi-thread mode
 # directory='' means wherever the app .py file is, else supply your own location
 # file=f preloads a saved file on launch. Don't use it otherwise for a blank screen
-t = FSMI.Main(external=True, directory='/FSM_Guide', file='FSM_save Binary div_by_five.txt')
+t = FSMI.Main(external=True, directory='FSM_Guide/', file='FSM_save Binary div_by_five.txt')
 # Use .main on the thread object to reach app functions
 
 # Creates a thread object for blocking tasks like start()
