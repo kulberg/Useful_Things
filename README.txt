@@ -2,7 +2,7 @@ Various indie projects for my own use/amusement
 This is the place if you're a potential employer looking to see what I'm capable of!
 And yes I do freelance work (mostly 3D printing, scripting, and data)
 
-Bonus: Here'sa  little game that teaches itself how not to lose (no Python required!)
+Bonus: Here's a  little game that teaches itself how not to lose (no Python required!)
 - https://trinket.io/python/867bf8f1a4
 
 __FSM_Interface.py__
