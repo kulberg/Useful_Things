@@ -17,4 +17,4 @@ Uses include setting up scripted samples and using actual external sensors to ru
 
 __FSM_Guide__
 Describes usage and intent for FSM_Interface.py
-Holds sample files
+Holds sample files (FSM_save files). Simply drag-n-drop the sample file onto the FSM_Interface window.
