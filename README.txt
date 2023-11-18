@@ -8,6 +8,7 @@ Bonus: Here's a little game that teaches itself how not to lose (no Python requi
 __FSM_Interface.py__
 Drag-n-drop interface for making and running Finite State Machines
 Simulation and education tool
+Requires pip install: tkinter, tkinterdnd2, pillow
 
 __FSM_Module_Template.py__
 ## IN DEV ##
