@@ -19,3 +19,7 @@ Uses include setting up scripted samples and using actual external sensors to ru
 __FSM_Guide__
 Describes usage and intent for FSM_Interface.py
 Holds sample files (FSM_save files). Simply drag-n-drop the sample file onto the FSM_Interface window
+
+__ProjDysRotoRec.avi__
+Sample output of my custom from-scratch (and highly customizable) rotoscoping tool in Python
+Original video: https://www.youtube.com/watch?v=w5M9MHB5bIs
